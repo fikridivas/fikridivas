@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am final year informatics Engineering student with experience in working on several projects related to Data Science using Python and several data science tools during bootcamp Data Science at Rakamin Academy to deliver insights from machine learning model. I also have ability in Data Analyst position with experience using Google BigQuery and Google Data Studio.
 <!--
 **fikridivas/fikridivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
